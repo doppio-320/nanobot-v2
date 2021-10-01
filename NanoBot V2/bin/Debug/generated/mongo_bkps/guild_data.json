@@ -1,0 +1,699 @@
+[{
+  "_id": {
+    "$oid": "61237746c46f6b50a35cd006"
+  },
+  "guildID": 752431695579316200,
+  "chatChannelID": 755070937371508900,
+  "logChannelID": 0,
+  "muteRoleID": 0,
+  "supressRankUpMessage": true,
+  "userDatas": [
+    {
+      "userID": 609560318938710000,
+      "rank": {
+        "currentRank": 6,
+        "currentXP": 2500
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 614698838288105500,
+      "rank": {
+        "currentRank": 2,
+        "currentXP": 750
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 252295989568733200,
+      "rank": {
+        "currentRank": 6,
+        "currentXP": 5300
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 758260462491009000,
+      "rank": {
+        "currentRank": 6,
+        "currentXP": 5301
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 347342453633712100,
+      "rank": {
+        "currentRank": 5,
+        "currentXP": 1900
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 381068417798635500,
+      "rank": {
+        "currentRank": 7,
+        "currentXP": 6300
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 328186501475336200,
+      "rank": {
+        "currentRank": 9,
+        "currentXP": 4250
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 399522537563750400,
+      "rank": {
+        "currentRank": 8,
+        "currentXP": 3850
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 606469480247197700,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 700
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 803639960619450400,
+      "rank": {
+        "currentRank": 7,
+        "currentXP": 3850
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 748812101216370700,
+      "rank": {
+        "currentRank": 8,
+        "currentXP": 6650
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 270114523552153600,
+      "rank": {
+        "currentRank": 5,
+        "currentXP": 2950
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 569329266844500030,
+      "rank": {
+        "currentRank": 8,
+        "currentXP": 1400
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 511152464112779260,
+      "rank": {
+        "currentRank": 6,
+        "currentXP": 50
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 325992739109863400,
+      "rank": {
+        "currentRank": 4,
+        "currentXP": 650
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 569779567275933700,
+      "rank": {
+        "currentRank": 8,
+        "currentXP": 2450
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 363972893320675300,
+      "rank": {
+        "currentRank": 4,
+        "currentXP": 1000
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 457922273064779800,
+      "rank": {
+        "currentRank": 8,
+        "currentXP": 2450
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 761250184666546200,
+      "rank": {
+        "currentRank": 2,
+        "currentXP": 1800
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 284876921177636860,
+      "rank": {
+        "currentRank": 8,
+        "currentXP": 7350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 459686822109380600,
+      "rank": {
+        "currentRank": 3,
+        "currentXP": 2250
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 533589850318700540,
+      "rank": {
+        "currentRank": 8,
+        "currentXP": 1400
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 766293978760609800,
+      "rank": {
+        "currentRank": 4,
+        "currentXP": 300
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 688037836116459600,
+      "rank": {
+        "currentRank": 5,
+        "currentXP": 3650
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 619814529366360000,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 700
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 546877257163997250,
+      "rank": {
+        "currentRank": 8,
+        "currentXP": 1050
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 525606810984382460,
+      "rank": {
+        "currentRank": 5,
+        "currentXP": 1550
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 754211241030844400,
+      "rank": {
+        "currentRank": 7,
+        "currentXP": 4200
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 642334457491357700,
+      "rank": {
+        "currentRank": 5,
+        "currentXP": 1900
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 284265726007574530,
+      "rank": {
+        "currentRank": 4,
+        "currentXP": 300
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 717302997238939600,
+      "rank": {
+        "currentRank": 3,
+        "currentXP": 2250
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 670229146365853700,
+      "rank": {
+        "currentRank": 4,
+        "currentXP": 2750
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 663720338508742700,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 355321436849831940,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 351305192035188740,
+      "rank": {
+        "currentRank": 2,
+        "currentXP": 50
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 694059580598124500,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 534213758155751400,
+      "rank": {
+        "currentRank": 2,
+        "currentXP": 50
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 689032077760266200,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 559714774611525600,
+      "rank": {
+        "currentRank": 2,
+        "currentXP": 50
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 753895782679052300,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 790223907436625900,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 670606770388992000,
+      "rank": {
+        "currentRank": 3,
+        "currentXP": 2950
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 545849843759841300,
+      "rank": {
+        "currentRank": 3,
+        "currentXP": 1900
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 594212607226019800,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 642781239434149900,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 700
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 256247568072179700,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 583503622088818700,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 700
+      },
+      "balance": {
+        "balance": 200
+      }
+    }
+  ],
+  "autoresData": {
+    "autoresResponses": [
+      {
+        "condition": "Contains",
+        "caseSensitive": false,
+        "trigger": "back then",
+        "response": "simpler, simpler times 😔"
+      },
+      {
+        "condition": "Exact",
+        "caseSensitive": false,
+        "trigger": "oten",
+        "response": "😔"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61237746c46f6b50a35cd007"
+  },
+  "guildID": 872810894827085800,
+  "chatChannelID": 872810895292657700,
+  "logChannelID": 876710994636832800,
+  "muteRoleID": 876831695196794900,
+  "supressRankUpMessage": true,
+  "userDatas": [
+    {
+      "userID": 252295989568733200,
+      "rank": {
+        "currentRank": 69,
+        "currentXP": 3450
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 687855663874965600,
+      "rank": {
+        "currentRank": 3,
+        "currentXP": 1200
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 689126210051244200,
+      "rank": {
+        "currentRank": 5,
+        "currentXP": 4000
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 758117747887439900,
+      "rank": {
+        "currentRank": 3,
+        "currentXP": 1900
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 351305192035188740,
+      "rank": {
+        "currentRank": 2,
+        "currentXP": 750
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 533589850318700540,
+      "rank": {
+        "currentRank": 2,
+        "currentXP": 50
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 754217216861536300,
+      "rank": {
+        "currentRank": 3,
+        "currentXP": 2250
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 726447829878308900,
+      "rank": {
+        "currentRank": 2,
+        "currentXP": 1450
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 739688853165572100,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 753827292115108000,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 433599639682547700,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 704659302668828800,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 700
+      },
+      "balance": {
+        "balance": 200
+      }
+    }
+  ],
+  "autoresData": {
+    "autoresResponses": [
+      {
+        "condition": "Exact",
+        "caseSensitive": false,
+        "trigger": "hi",
+        "response": "hello!"
+      },
+      {
+        "condition": "Exact",
+        "caseSensitive": false,
+        "trigger": "single ka ba",
+        "response": "ew"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61237746c46f6b50a35cd008"
+  },
+  "guildID": 833608663092297700,
+  "chatChannelID": 833609061848711200,
+  "logChannelID": 833615532262948900,
+  "muteRoleID": 833610141386801200,
+  "supressRankUpMessage": false,
+  "userDatas": [
+    {
+      "userID": 252295989568733200,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 350
+      },
+      "balance": {
+        "balance": 200
+      }
+    },
+    {
+      "userID": 347342453633712100,
+      "rank": {
+        "currentRank": 1,
+        "currentXP": 700
+      },
+      "balance": {
+        "balance": 200
+      }
+    }
+  ],
+  "autoresData": {
+    "autoresResponses": [
+      {
+        "condition": "Contains",
+        "caseSensitive": false,
+        "trigger": "back then",
+        "response": "simpler, simpler times 😔"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61237746c46f6b50a35cd009"
+  },
+  "guildID": 783342717983391700,
+  "chatChannelID": 783342717983391700,
+  "logChannelID": 0,
+  "muteRoleID": 0,
+  "supressRankUpMessage": false,
+  "userDatas": [],
+  "autoresData": {
+    "autoresResponses": []
+  }
+}]
