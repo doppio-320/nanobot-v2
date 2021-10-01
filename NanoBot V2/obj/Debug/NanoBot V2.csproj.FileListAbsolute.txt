@@ -69,3 +69,74 @@ D:\Visual Studio Projects\NanoBot V2\NanoBot V2\bin\Debug\MongoDB.Bson.xml
 D:\Visual Studio Projects\NanoBot V2\NanoBot V2\bin\Debug\MongoDB.Driver.xml
 D:\Visual Studio Projects\NanoBot V2\NanoBot V2\bin\Debug\MongoDB.Driver.Core.xml
 D:\Visual Studio Projects\NanoBot V2\NanoBot V2\bin\Debug\System.ValueTuple.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\snappy32.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\snappy64.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\libzstd.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\mongocrypt.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\NanoBot V2.exe.config
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\NanoBot V2.exe
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\NanoBot V2.pdb
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\CsvHelper.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.Commands.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.Core.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.Rest.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.Webhook.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.WebSocket.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\DnsClient.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Bson.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Driver.Core.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Driver.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MySql.Data.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Newtonsoft.Json.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\SharpCompress.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Buffers.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Collections.Immutable.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Interactive.Async.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Linq.Async.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Memory.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Numerics.Vectors.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.ValueTuple.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Google.Protobuf.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Zstandard.Net.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\BouncyCastle.Crypto.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Ubiety.Dns.Core.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\K4os.Compression.LZ4.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\K4os.Hash.xxHash.dll
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\CsvHelper.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.Commands.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.Core.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.Rest.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.Webhook.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Discord.Net.WebSocket.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\DnsClient.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Bson.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Driver.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Driver.Core.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MySql.Data.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Newtonsoft.Json.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Buffers.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Collections.Immutable.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Interactive.Async.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Linq.Async.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Memory.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Numerics.Vectors.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.ValueTuple.xml
+D:\Github\nanobot-v2\NanoBot V2\obj\Debug\NanoBot V2.csproj.AssemblyReference.cache
+D:\Github\nanobot-v2\NanoBot V2\obj\Debug\NanoBot V2.csproj.CoreCompileInputs.cache
+D:\Github\nanobot-v2\NanoBot V2\obj\Debug\NanoBot V2.csproj.CopyComplete
+D:\Github\nanobot-v2\NanoBot V2\obj\Debug\NanoBot V2.exe
+D:\Github\nanobot-v2\NanoBot V2\obj\Debug\NanoBot V2.pdb

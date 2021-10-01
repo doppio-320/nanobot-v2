@@ -16,9 +16,7 @@ namespace NanoBot_V2
 {
     public class BotRuntime
     {
-        private const string BOT_VERSION = "2.0.85";
-
-        private const string TOKEN = "ODMzOTY5OTkxMTc0ODQ4NTQz.YH6FFA._gNa-ZRT_AdyBZhNyAUFFyDEnYo";
+        private const string BOT_VERSION = "2.0.85.69.42";        
 
         private static DiscordSocketClient discordClient;
         public static DiscordSocketClient DiscordClient
@@ -39,6 +37,9 @@ namespace NanoBot_V2
 
         public async Task RunBotAsync()
         {
+            Console.WriteLine("Enter the bot TOKEN:");
+            var token = Console.ReadLine();
+
             RNGManager.Create();
 
             discordClient = new DiscordSocketClient(new DiscordSocketConfig() { MessageCacheSize = 100, AlwaysDownloadUsers = true });
@@ -56,7 +57,7 @@ namespace NanoBot_V2
 
             await commandService.AddModulesAsync(Assembly.GetEntryAssembly(), serviceProvider);
 
-            await discordClient.LoginAsync(TokenType.Bot, TOKEN);
+            await discordClient.LoginAsync(TokenType.Bot, token);
             await discordClient.StartAsync();
             await discordClient.SetGameAsync("n2!help is INOP - v" + BOT_VERSION);
 
