@@ -32,7 +32,7 @@ namespace NanoBot_V2.Services
             }
 
 
-            Console.WriteLine("Loaded ItemData Data.");
+            ProgramLogger.LogImportant("Loaded ItemData Data.");
         }
 
         public static InventoryItem FromID(int _id)

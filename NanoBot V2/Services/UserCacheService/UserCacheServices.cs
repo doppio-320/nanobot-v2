@@ -35,7 +35,7 @@ namespace NanoBot_V2.Services
             });
 
 
-            Console.WriteLine("Loaded UserCacheInfo Data.");
+            ProgramLogger.LogImportant("Loaded UserCacheInfo Data.");            
         }
 
         public static void Save(bool _bkp)

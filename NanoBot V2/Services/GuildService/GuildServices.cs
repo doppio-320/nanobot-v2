@@ -92,8 +92,8 @@ namespace NanoBot_V2.Services
             Scheduler.MyScheduler.IntervalInMinutes(5d, () => {
                 Save(false);
             });
-
-            Console.WriteLine("Loaded Guild Data.");
+            
+            ProgramLogger.LogImportant("Loaded Guild Data.");
         }
 
         public static void Save(bool _bkp)

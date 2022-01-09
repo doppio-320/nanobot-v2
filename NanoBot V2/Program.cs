@@ -10,7 +10,9 @@ namespace NanoBot_V2
     {
         static void Main(string[] args)
         {
+            ProgramLogger.Load();
             new BotRuntime().Run();
+            ProgramLogger.Unload();
         }
     }
 }

@@ -84,6 +84,7 @@
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="PresentationFramework" />
     <Reference Include="SharpCompress, Version=0.23.0.0, Culture=neutral, PublicKeyToken=afb0a02973931d96, processorArchitecture=MSIL">
       <HintPath>..\packages\SharpCompress.0.23.0\lib\net45\SharpCompress.dll</HintPath>
     </Reference>
@@ -176,7 +177,9 @@
     <Compile Include="CommandModules\ShopCommands.cs" />
     <Compile Include="CommandModules\SniperCommands.cs" />
     <Compile Include="CommandModules\ModerationCommands.cs" />
+    <Compile Include="IniFile.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProgramLogger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RNGManager.cs" />
     <Compile Include="Scheduler\MyScheduler.cs" />
@@ -184,6 +187,7 @@
     <Compile Include="Services\Autores\AutoresResponse.cs" />
     <Compile Include="Services\Autores\AutoresService.cs" />
     <Compile Include="Services\Autores\GuildAutores.cs" />
+    <Compile Include="Services\DatabaseHeartbeat.cs" />
     <Compile Include="Services\GuildService\DataTypes\GuildData.cs" />
     <Compile Include="Services\GuildService\DataTypes\UserBalance.cs" />
     <Compile Include="Services\GuildService\DataTypes\UserInventory.cs" />

@@ -15,14 +15,16 @@ namespace NanoBot_V2.Services
         private static IMongoDatabase database;
         private static IMongoDatabase staticDatabase;
 
-        public static void Initialize()
+        public static void Initialize(string _con)
         {
-            var settings = MongoClientSettings.FromConnectionString("mongodb+srv://nanobot:3Sk7Kk8UfnFeXwFa@doppiecluster.xywaj.mongodb.net/nanobot_db?retryWrites=true&w=majority");
+            ProgramLogger.LogMessage($"Resolving connection to MongoDB");
+
+            var settings = MongoClientSettings.FromConnectionString(_con);
             client = new MongoClient(settings);
             database = client.GetDatabase("nanobot_db");
             staticDatabase = client.GetDatabase("nanobot_db_static");
 
-            Console.WriteLine("Connected MongoDB...");
+            ProgramLogger.LogImportant($"Connected MongoDB [Cluster ID: {client.Cluster.ClusterId}]");            
         }
 
         public static IMongoCollection<BsonDocument> GetCollection(string _name)

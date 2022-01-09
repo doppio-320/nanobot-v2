@@ -13,6 +13,7 @@ namespace NanoBot_V2
         public static void Create()
         {
             random = new Random();
+            ProgramLogger.LogImportant("RNGManager initialized [TRACEBACK SEED: -1]");
         }
 
         public static uint RandomID()

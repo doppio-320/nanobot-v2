@@ -93,7 +93,32 @@ namespace NanoBot_V2.Services
             var embed = new EmbedBuilder();
             embed.WithTitle($"MESSAGE DELETED!");            
             embed.AddField($"USER", _msg.Author.Mention);
-            embed.AddField($"CONTENTS", _msg.Content);
+            try
+            {
+                embed.AddField($"CONTENTS", _msg.Content);
+            }            catch (Exception e)
+            {
+                embed.AddField($"CONTENTS FAILED TO RETRIEVE", "NULL");
+            }
+            embed.AddField($"AT", _msg.Channel.Name);
+            embed.AddField($"Time", DateTime.Now);
+            chnl.SendMessageAsync(embed: embed.Build());
+        }
+
+        public static void LogMessageEdited(IMessage _msg, IMessage _newMsg)
+        {
+            var srcChannel = (SocketGuildChannel)_msg.Channel;
+            var guild = srcChannel.Guild;
+            var chnl = guild.GetChannel(GuildServices.GetGuildData(guild.Id).logChannelID) as IMessageChannel;
+
+            if (chnl == null)
+                return;
+
+            var embed = new EmbedBuilder();
+            embed.WithTitle($"MESSAGE EDITED!");
+            embed.AddField($"USER", _msg.Author.Mention);
+            embed.AddField($"BEFORE", _msg.Content);
+            embed.AddField($"AFTER", _newMsg.Content);
             embed.AddField($"AT", _msg.Channel.Name);
             embed.AddField($"Time", DateTime.Now);
             chnl.SendMessageAsync(embed: embed.Build());

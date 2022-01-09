@@ -29,7 +29,7 @@ namespace NanoBot_V2.Services
                 storePrices.Add(itemID, new KeyValuePair<int, int>(buyPrice, sellPrice));
             }
 
-            Console.WriteLine("Loaded StorePrices Data.");
+            ProgramLogger.LogImportant("Loaded StorePrices Data.");
         }
 
         public static int BuyPrice(int _itemID, int _amount = 1)

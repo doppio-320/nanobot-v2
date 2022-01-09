@@ -91,7 +91,6 @@ D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Bson.dll
 D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Driver.Core.dll
 D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Driver.dll
 D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MongoDB.Libmongocrypt.dll
-D:\Github\nanobot-v2\NanoBot V2\bin\Debug\MySql.Data.dll
 D:\Github\nanobot-v2\NanoBot V2\bin\Debug\Newtonsoft.Json.dll
 D:\Github\nanobot-v2\NanoBot V2\bin\Debug\SharpCompress.dll
 D:\Github\nanobot-v2\NanoBot V2\bin\Debug\System.Buffers.dll
